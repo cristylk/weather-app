@@ -44,10 +44,6 @@ post '/weather' do
     end
 end
 
-#<div class="cond wc-cloudy wc-icon-32">Cloudy</div>
-#<div class="temp">
-#<span class="f">
-
 
 
 

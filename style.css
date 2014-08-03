@@ -52,17 +52,55 @@ input, select { vertical-align: middle; }
 /*********************************************************/
 /********************** Custom CSS **********************/
 /*******************************************************/
-#cloudy-title {
-	text-align: center;
-	color: white;
-	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
-	font-size: 30px;
+body { 
+color: LightGrey;
+font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+text-align: center;
+font-size: 30px;
 }
 
-.background-cloudy{
-	background: url(public/Weather_App_Cloudy.png) no-repeat center center fixed; 
+#cloudy {
+	color: white;
+	background: url('https://github.com/cristylk/weather-app/blob/master/public/Weather_App_Cloudy.png') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
+
+#other {
+	background: green;
+}
+
+#home {
+	background: url('https://github.com/cristylk/weather-app/blob/master/public/Weather_App_map.png') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#rainy { 
+	background: url('https://github.com/cristylk/weather-app/blob/master/public/Weather_App_Rainy.png') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#snowy { 
+	background: url('https://github.com/cristylk/weather-app/blob/master/public/Weather_App_Snowy.png') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#sunny {
+	background: url('https://github.com/cristylk/weather-app/blob/master/public/Weather_App_Sunny.png') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+

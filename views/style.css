@@ -57,6 +57,7 @@ color: LightGrey;
 font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
 text-align: center;
 font-size: 30px;
+padding-top: 205px;
 }
 
 #cloudy {
@@ -77,6 +78,8 @@ font-size: 30px;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	margin-top: 250px;
+	padding-top: 250px;
 }
 
 #rainy { 

@@ -67,12 +67,14 @@ font-size: 30px;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	padding-top: 250px;
 }
 
 #other {
 	height: 645px;
 	width: 1175px;
 	background: green;
+	padding-top: 250px;
 }
 
 #home {
@@ -85,6 +87,10 @@ font-size: 30px;
 	background-size: cover;
 }
 
+#map-form {
+	padding-top: 300px;
+}
+
 #rainy { 	
 	height: 645px;
 	width: 1175px;
@@ -93,6 +99,7 @@ font-size: 30px;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	padding-top: 250px;
 }
 
 #snowy { 	
@@ -103,6 +110,7 @@ font-size: 30px;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	padding-top: 250px;
 }
 
 #sunny {	
@@ -113,5 +121,6 @@ font-size: 30px;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	padding-top: 250px;
 }
 

@@ -60,8 +60,7 @@ font-size: 30px;
 }
 
 #cloudy {
-	color: white;
-	background: url('https://github.com/cristylk/weather-app/blob/master/public/Weather_App_Cloudy.png') no-repeat center center fixed;
+	background: url('http://cl.ly/WtJT') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -73,7 +72,7 @@ font-size: 30px;
 }
 
 #home {
-	background: url('https://github.com/cristylk/weather-app/blob/master/public/Weather_App_map.png') no-repeat center center fixed;
+	background: url('http://cl.ly/Wt0P') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -81,7 +80,7 @@ font-size: 30px;
 }
 
 #rainy { 
-	background: url('https://github.com/cristylk/weather-app/blob/master/public/Weather_App_Rainy.png') no-repeat center center fixed;
+	background: url('http://cl.ly/WtZn') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -89,7 +88,7 @@ font-size: 30px;
 }
 
 #snowy { 
-	background: url('https://github.com/cristylk/weather-app/blob/master/public/Weather_App_Snowy.png') no-repeat center center fixed;
+	background: url('http://cl.ly/WtV8') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -97,7 +96,7 @@ font-size: 30px;
 }
 
 #sunny {
-	background: url('https://github.com/cristylk/weather-app/blob/master/public/Weather_App_Sunny.png') no-repeat center center fixed;
+	background: url('http://cl.ly/WtUJ') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

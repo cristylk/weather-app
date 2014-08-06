@@ -19,8 +19,8 @@ get '/' do
 #	@message = weatherman(your_location)
 #	@conditions = conditions(your_location)
 #	"The temperature is #{@message} degrees Fahrenheit. It is #{@conditions}"
-	
-	erb :home
+	"#{@message}"
+    erb :index
 end
 
 post '/weather' do

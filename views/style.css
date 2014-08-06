@@ -60,8 +60,6 @@ font-size: 30px;
 }
 
 #cloudy {
-	height: 645px;
-	width: 1175px;
 	background: url('Weather_App_Cloudy.png') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -70,14 +68,10 @@ font-size: 30px;
 }
 
 #other {
-	height: 645px;
-	width: 1175px;
 	background: green;
 }
 
 #home {
-	height: 645px;
-	width: 1175px;
 	background: url('Weather_App_map.png') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -85,9 +79,7 @@ font-size: 30px;
 	background-size: cover;
 }
 
-#rainy { 	
-	height: 645px;
-	width: 1175px;
+#rainy { 
 	background: url('Weather_App_Rainy.png') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -95,9 +87,7 @@ font-size: 30px;
 	background-size: cover;
 }
 
-#snowy { 	
-	height: 645px;
-	width: 1175px;
+#snowy { 
 	background: url('Weather_App_Snowy.png') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -105,9 +95,7 @@ font-size: 30px;
 	background-size: cover;
 }
 
-#sunny {	
-	height: 645px;
-	width: 1175px;
+#sunny {
 	background: url('Weather_App_Sunny.png') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
